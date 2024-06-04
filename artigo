@@ -1,0 +1,86 @@
+MEDICINA COM O USO DE LLMs
+MEDICINE USING LLMs
+
+RESUMO
+O uso de Modelos de Linguagem Extensa (LLMs, do inglês Large Language Models) na
+medicina tem se mostrado promissor em diversas áreas, incluindo diagnósticos,
+planejamento de tratamentos e suporte à decisão clínica. Este estudo explora as
+aplicações, benefícios e desafios da implementação de LLMs na prática médica, com foco
+em sua capacidade de melhorar a precisão diagnóstica e a eficiência no atendimento ao
+paciente. A metodologia incluiu uma revisão abrangente da literatura atual, seguida de
+análise crítica dos resultados. Os achados indicam que, embora os LLMs apresentem um
+potencial significativo, existem barreiras técnicas e éticas que precisam ser abordadas para
+sua adoção plena.
+Palavras-chave: Modelos de Linguagem Extensa, Medicina, Diagnóstico, Inteligência
+Artificial, Suporte à Decisão Clínica
+ABSTRACT
+The use of Large Language Models (LLMs) in medicine has shown promise in various areas,
+including diagnostics, treatment planning, and clinical decision support. This study
+explores the applications, benefits, and challenges of implementing LLMs in medical
+practice, focusing on their ability to enhance diagnostic accuracy and patient care
+efficiency. The methodology included a comprehensive literature review followed by a
+critical analysis of the findings. The results indicate that while LLMs hold significant
+potential, technical and ethical barriers must be addressed for their full adoption.
+Keywords:Large Language Models, Medicine, Diagnosis, Artificial Intelligence, Clinical
+Decision Support
+
+1 INTRODUÇÃO
+1.1 Problema de pesquisa
+A prática médica enfrenta desafios constantes em relação à precisão diagnóstica e à
+eficiência no atendimento ao paciente. Com o aumento da complexidade dos dados
+médicos e a necessidade de decisões rápidas e precisas, surge a questão: como os
+Modelos de Linguagem Extensa (LLMs) podem ser integrados à medicina para
+melhorar esses aspectos críticos?
+
+1.2 Objetivo(s)
+Investigar as aplicações atuais e potenciais dos LLMs na medicina.
+Avaliar os benefícios dos LLMs em termos de precisão diagnóstica e eficiência no
+atendimento.
+Identificar os desafios técnicos e éticos associados à implementação de LLMs na
+prática médica.
+
+1.3 Justificativa
+A adoção de LLMs na medicina justifica-se pela necessidade de aprimorar a qualidade
+dos cuidados de saúde. Os LLMs podem processar vastas quantidades de dados
+textuais, oferecendo suporte a médicos na interpretação de informações complexas e
+na tomada de decisões mais informadas. Além disso, a crescente disponibilidade de
+dados digitais e avanços em IA tornam oportuno investigar essa integração.
+
+2 REVISÃO DE LITERATURA
+A literatura sobre LLMs na medicina revela um panorama de inovação e desafios. Estudos
+indicam que LLMs, como GPT-4, têm a capacidade de interpretar textos médicos, sugerir
+diagnósticos e auxiliar no planejamento de tratamentos. Pesquisas destacam benefícios
+significativos, como a redução de erros médicos e a melhoria na personalização dos cuidados
+ao paciente. No entanto, também apontam para desafios, como a necessidade de grandes
+volumes de dados de treinamento, questões de privacidade e a necessidade de supervisão
+humana contínua.
+
+3 METODOLOGIA
+A pesquisa foi conduzida em duas fases principais: uma revisão sistemática da literatura e
+uma análise crítica dos resultados. Na primeira fase, foram selecionados artigos científicos,
+relatórios e estudos de caso relevantes, utilizando bases de dados como PubMed, IEEE
+Xplore e Google Scholar. Na segunda fase, os dados foram analisados qualitativamente para
+identificar padrões, benefícios e desafios na aplicação de LLMs na medicina.
+
+4 RESULTADOS E DISCUSSÕES
+Os resultados indicam que LLMs podem melhorar significativamente a precisão diagnóstica e
+a eficiência do atendimento médico. Exemplos incluem o uso de LLMs para analisar
+prontuários eletrônicos e identificar padrões que escapam à observação humana. No
+entanto, surgem desafios importantes, como a necessidade de integração com sistemas de
+saúde existentes, a garantia de precisão e a abordagem de preocupações éticas, como a
+privacidade dos dados dos pacientes.
+
+5 CONCLUSÃO
+O estudo demonstrou que os LLMs têm um potencial significativo para transformar a prática
+médica, melhorando tanto a precisão diagnóstica quanto a eficiência no atendimento ao
+paciente. No entanto, para que esse potencial seja plenamente realizado, é necessário
+abordar os desafios técnicos e éticos identificados. A continuidade das pesquisas e o
+desenvolvimento de políticas de regulamentação apropriadas são essenciais para a
+integração bem-sucedida dos LLMs na medicina.
+
+REFERÊNCIAS
+Ashley, K. D. (2017). Artificial Intelligence and Legal Analytics: New Tools for Law Practice in
+the Digital Age. Cambridge University Press.
+Google. (s.d.). Techub Training. Recuperado de
+[https://rsvp.withgoogle.com/events/techub-brazil/sessions/20240528_pt_leh_dev_llm]
+
